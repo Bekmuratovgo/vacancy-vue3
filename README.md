@@ -1,5 +1,5 @@
 # Quasar App (quasar-project)
-
+## if you have a question about this project, text me in telegram @bekmuratovgo
 A Quasar Project
 
 ## Install the dependencies
